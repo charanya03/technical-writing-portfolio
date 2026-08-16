@@ -9,7 +9,7 @@ Welcome! I am a Technical Writer specializing in making complex software archite
 *   **Tools Stack:** Markdown, REST API, JSON, Postman
 *   **Summary:** A technical reference guide detailing a custom endpoint used to programmatically register students into an LMS platform from external checkouts.
 
-### 2. [Coming Soon: End-User Quick-Start Guide]
+### 2. [End-User Quick-Start Guide](./samples/user-quick-start.md)
 *   **Target Audience:** Non-Technical Site Administrators
 *   **Summary:** Visual step-by-step tutorial on configuring complex visual modules.
 
